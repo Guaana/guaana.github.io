@@ -56,7 +56,7 @@ No, never. Social log in is just for the sake of convenience.
 
 ### Q: “Ok, I have this awesome idea/research - definitely worth a Moonshot. Is anyone going to steal it?”
 
-Moonshots are related to known global topics and therefor don’t need intellectual property protection.
+Moonshots are related to known global topics and therefore don’t need intellectual property protection.
 
 We believe that **instead** of getting your ideas stolen you can **find people** from around the world to **team up with.** People are awesome like that. That’s how Guaana came to life.
 
@@ -68,7 +68,7 @@ Because science **can be** accessible and open.
 
 ### Q: “Are you aware that ________ is the biggest issue in academic world right now?”
 
-We have many plans in the pipeline and together we can figure out how to solve them. We are closely listening our community and if you want to join our scientific advisory board then please [e-mail us](mailto:info@guaana.com).
+We have many plans in the pipeline and together we can figure out how to solve them. We are closely listening to our community and if you want to join our scientific advisory board then please [e-mail us](mailto:info@guaana.com).
 
 ### Q: “Can I contact you with more questions?”
 
