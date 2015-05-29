@@ -1,6 +1,6 @@
 Moonshot is a great way to share your vision of a better future with the world and attract participation. It could be a bold idea that pushes boundaries or breaks new ground. Perhaps a new technology that could benefit your field or mankind and bring about positive change. Transmit your idea by filling out the <strong>submission form</strong> and likeminded individuals from around the world will join the conversation.
 
-[Submit your Moonshot](https://guaana.com/moonshots/new)
+[Submit your Moonshot](https://guaana.com/moonshots/add)
 
 ### Open to everyone
 
