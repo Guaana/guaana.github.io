@@ -1,4 +1,4 @@
-### Effective Date: May 1, 2015
+## Effective Date: May 1, 2015
 
 The following terms and conditions, as well as any future modifications (the "Terms") are a contract between you or your company ("you" or "your") and Guaana OÜ, a private limited company incorporated in Estonia ("Guaana," "we," "us," or "our") governing your use, and Guaana’s provision, of the Services (as defined below). By using Guaana’s software applications, application programming interfaces, communication services, networks, and websites, including, but not limited to [guaana.com](https://guaana.com/) (collectively, the "Services"), you acknowledge that you have read, understood, accept and agree to be bound by the most recent version of these Terms.
 
@@ -6,7 +6,7 @@ You may review the most current version of the Terms at any time on the Guaana w
 
 **IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE, OR CEASE YOUR USE OF, THE SERVICES.**
 
-### Grant of Limited License
+## Grant of Limited License
 
 Subject to your compliance with the Terms including, without limitation, maintaining your registration with current and accurate information and the prompt payment of applicable fees, Guaana hereby grants you a non-exclusive, non-transferable, revocable, worldwide license to access and use the Services. All rights not expressly granted to you are reserved by Guaana and its licensors.
 
@@ -18,45 +18,45 @@ Without explicit permission from Guaana, you may not
 * either explicitly, implicitly, or through acts of omission, represent yourself as acting on behalf of Guaana; or
 * either explicitly, implicitly, or through acts of omission, represent yourself as a partner, affiliate, reseller, employee, contractor, vendor, advisor, or counsel of Guaana.
 
-### Guaana Provides a Collaboration Venue
+## Guaana Provides a Collaboration Venue
 
 Guaana.com is an online venue where you or other users post content for potential innovative services in order for you or other venue users to submit potential actual solutions in response to requirements defined, and you or other users choose the entry(s)/solutions you or other users like. In providing an online venue, we do not source (except for us, where this is expressly stated in the project) or deliver projects or entries.
 
-### Contracts between You and Other Users of Our Services
+## Contracts between You and Other Users of Our Services
 
 By registering as a user, you acknowledge and agree that you may contract directly with other users to buy or sell services.
 
 You covenant and agree to act in good faith and engage in fair dealing in connection with the potential contracts. Additionally, you acknowledge and agree that the value, reputation, and goodwill of Guaana depends in part on your performance of your covenants and agreements. You further agree that we have the right to take such actions, including without limitation suspension, termination, or legal actions, as we in our sole discretion deem necessary to protect the value, reputation, and goodwill of Guaana.
 
-### Taxes and Reporting
+## Taxes and Reporting
 
 Each user is solely responsible for satisfying all income tax, payroll tax, payroll withholding, sales and use tax, governmental reporting and other legal requirements under applicable law, including without limitation those applicable to the purchase and sale of services provided by creatives, from and by independent contractors.
 
-### No Agency
+## No Agency
 
 No agency, franchise, partnership, joint-venture, or employee-employer relationship is intended or created by this Agreement.
 
-### Links to Third Party Content
+## Links to Third Party Content
 
 You may find on Guaana.com links to other sites. You acknowledge and agree that we are not responsible or liable for: (i) the availability or accuracy of such sites or resources; or (ii) the content, advertising, or products on or available from such sites or resources. The inclusion of any link on the Site does not imply that we endorse the linked site. You use the links at your own risk and expressly relieve us from any and all liability arising from your use of any third-party website.
 
-### User entries
+## User entries
 
 You shall be solely responsible for your own entries and all content you post on Guaana.com, and the consequences of posting or publishing entries or content. When uploading entries or comments to the Guaana.com, you affirm, represent and/or warrant that: you own or have the necessary licenses, rights, consents and permissions to use and authorize us to use all patent, trademark, trade secret, copyright, or other proprietary rights in and to any and all of your entries of content, to enable inclusion and use of your entries and content in the manner contemplated on the Guaana.com and in this Agreement.
 
-### Service Guarantee
+## Service Guarantee
 
 We will respond to your support inquiries within 24 (twenty-four) hours and we will ensure the Services have no unexpected downtime. If you do not believe we met this service level on any day during the period of your paid subscription, notify us by emailing support@guaana.com within fifteen (15) days of the issue and we will credit your subscription back for that day.
 
-### Cancellation
+## Cancellation
 
 You are solely responsible for properly cancelling your paid subscription. An email, phone, chat, or written request to cancel your paid subscription is not considered cancellation. You may cancel your paid subscription at any time by clicking on the "delete account" link on the dashboard when logged in. It provides a link to cancel your account. The cancellation of your paid subscription will occur at the end of your current paid up period.
 
-### Termination
+## Termination
 
 Guaana may terminate your account without notice in the event that you breach any of these Terms. Your cancellation will take effect immediately and you will not be charged again. In the event of any termination, Guaana will not refund any of the prepaid Fees. Such termination of the Services will result in the deactivation or deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. Guaana reserves the right to refuse service to anyone for any reason at any time.
 
-### Fees
+## Fees
 
 Guaana reserves the right to charge fees for your use of the Services, as described during the account registration process or when making changes to your account plan ("Fees"). You agree to pay such Fees in accordance with the terms set forth in such account registration or change to account plan.
 
@@ -64,15 +64,15 @@ All Fees are exclusive of all taxes, levies, or duties imposed by taxing authori
 
 Guaana reserves the right, in Guaana’s sole discretion, to change published prices without notice. Furthermore, we reserve the right to change the Fees for the Services tied to your account upon thirty (30) days advance notice of the applicability of such change to the Fees and shall not apply to Fees already charged to your account.
 
-### Refunds
+## Refunds
 
 Guaana is not obligated to provide refunds or credits for partial months or years of the Services, upgrades or downgrades, or unused time during your subscription. If Guaana materially breaches these Terms and fails to cure this breach within thirty (30) days of receiving written notice from you of such breach, Guaana will refund the proportion of the pre-paid fees attributable to the period after the breach. If you terminate your account in the event of a suspension for more than five (5) business days or discontinuance of the Services, you will be entitled to a refund of the proportion of pre-paid fees attributable to the period after termination.
 
-### Modifications to the Services
+## Modifications to the Services
 
 Guaana reserves the right at any time to modify or discontinue, temporarily or permanently, the Services (or any part thereof) with or without notice. Guaana shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Services.
 
-### Account Restrictions
+## Account Restrictions
 
 * You must be legally able to enter into these Terms in your jurisdiction, such as being older than the minimum age of consent to enter into contracts.
 * You must be a natural person or a natural person representing a company, association or other organization. Accounts registered by "bots" or other automated methods are in violation of these Terms and will be immediately terminated.
@@ -84,7 +84,7 @@ Guaana reserves the right at any time to modify or discontinue, temporarily or p
 * Verbal, physical, written or other abuse (including threats of abuse or retribution) of any customer, employee, member, or officer of Guaana will result in immediate account termination.
 * You may not forge or manipulate headers, data, or network protocols to disguise the origin of Content or otherwise disrupt the intended use of the Services.
 
-### Content Restrictions
+## Content Restrictions
 
 You are responsible for all materials, including without limitation, information, data, text, software, music, sound, photographs, graphics, video, and email messages or other kinds of messages posted, received or sent through the Services (collectively "Content") and for all activity that occurs under your account, whether done so by you or any user of the Service who is communicating with you.
 
@@ -120,7 +120,7 @@ You may not post any unlawful, offensive, threatening, libelous, defamatory, obs
 * posting content that solicits personal information or any information from anyone under the age of 18
 * posting content that uses, promotes or links to an illegal or unauthorized copy of another person’s copyrighted work or intellectual property
 
-### Guaana’s Intellectual Property Rights
+## Guaana’s Intellectual Property Rights
 
 The Services are protected by copyright, trademark, and other laws of Estonia and foreign countries. Except as expressly provided in the Terms, Guaana, its suppliers and licensors own all right, title and interest in and to the Services, including all associated intellectual property rights. You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Services.
 
@@ -130,13 +130,13 @@ You may not duplicate, copy, reuse, or reverse engineer any portion of the Servi
 
 All trademarks, service marks, logos, trade names and any other proprietary designations of Guaana used herein are trademarks or registered trademarks of Guaana. Any other trademarks, service marks, logos, trade names and any other proprietary designations are the trademarks or registered trademarks of their respective parties.
 
-### Third-party Services
+## Third-party Services
 
 As part of your enjoyment of the Services, subject to these Terms, you may grant a third party access to your account to provide additional products, services or labor provided you agree to be responsible for the actions of the third party and to bind the third party to these Terms as your agent.
 
 From time to time, separate applications or services that integrate or interoperate with the Guaana Services (collectively, "Add-ons") may become available, either directly from Guaana or independently. If you choose to install, access or enable an Add-on, you agree that the third-party Add-on provider may acquire access to your account data and information as required for the interoperation or integration of such Add-on and you grant Guaana permission to give such Add-on access to your account data and information. Accordingly, such applications are governed by their own terms and conditions and are not considered Services under these Terms.
 
-### Warranty Disclaimers
+## Warranty Disclaimers
 
 You expressly understand and agree that:
 
@@ -148,17 +148,17 @@ Any material downloaded or otherwise obtained through the use of the Services ar
 
 No advice or information, whether oral or written, obtained by you from Guaana or through or from the Services shall create any warranty not expressly stated in these terms.
 
-### Limitation of Liability
+## Limitation of Liability
 
 You expressly understand and agree that Guaana and its subsidiaries, affiliates, officers, employees, agents, partners and licensors shall not be liable to you for any indirect, incidental, special, consequential or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if Guaana has been advised of the possibility of such damages) in any way relating to or arising from this agreement. In no event shall Guaana or its respective suppliers aggregate liability for direct damages under this agreement exceed the fees paid for the immediately preceding month before the claim. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages. Accordingly, some of the above limitations may not apply to you.
 
 Please note that downgrading your account may result in the loss of content, features, or capacity of your account. Guaana does not accept any liability for any such losses.
 
-### Indemnification
+## Indemnification
 
 You agree to defend, indemnify and hold harmless Guaana, its officers, directors, employees, and agents, harmless for any losses, costs, liabilities and expenses (including reasonable attorneys’ fees) relating to or arising out of your connection to or use of the Services, including but not limited to any breach by you of these Terms and any claims arising from the content you submit, post, transmit or make available through the Services.
 
-### Non-solicitation
+## Non-solicitation
 
 You may not use the Services to solicit, interfere with, or endeavour to entice away from Guaana any Guaana customer, user, or subscriber.
 
@@ -166,35 +166,35 @@ The Services are for your own use only. You may not resell, lease or provide the
 
 If you are interested in becoming an Guaana partner, reseller, or affiliate, we are happy to talk with you.
 
-### Governing Law
+## Governing Law
 
 These Terms, your rights and obligations, and all actions contemplated by these Terms shall be governed by the laws of Estonia. Any disputes arising under this Agreement shall be heard in the courts of Estonia. You also agree that regardless of any statute or law to the contrary, any claim or cause of action arising from or related to the use of the Services must be filed within three (3) months after such claim or cause of action arose or be forever barred. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder.
 
-### Force Majeure
+## Force Majeure
 
 Guaana shall not be responsible for any failure to perform due to unforeseen, non-commercial circumstances beyond its reasonable control, including but not limited to acts of God, war, riot, crime, terrorist attacks, embargoes, acts of civil or military authorities, widespread Internet outages, fire, floods, earthquakes, accidents, strikes, fuel or energy. In the event of any such delay, any applicable period of time for action by Guaana may be deferred for a period equal to the time of such delay.
 
-### Integration and Severability
+## Integration and Severability
 
 These Terms are the entire agreement between you and Guaana with respect to the Services and supersede all prior or contemporaneous communications and proposals (whether oral, written or electronic) between you and Guaana with respect to the Services. If any provision of the Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the Terms will otherwise remain in full force and effect and enforceable. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder.
 
-### Assignment of Terms
+## Assignment of Terms
 
 Guaana may assign or transfer the Terms, in its sole discretion, without restriction. Subject to the foregoing, the Terms will bind and inure to the benefit of the parties, their successors and permitted assigns.
 
-### Notices
+## Notices
 
 Any notices or other communications required hereunder, including those regarding modifications to the Terms, will be in writing and given by posting to our website. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted.
 
-### Mutual Beveraging
+## Mutual Beveraging
 
 You are entitled to a beverage of Guaana’s choice provided that a) you or a member of your team visits one of Guaana’s offices; and b) If a member of the Guaana team visits your office, you agree to provide them a beverage of your choice.
 
-### Headings for Convenience Only
+## Headings for Convenience Only
 
 Headings are for convenience only and have no legal or contractual effect.
 
-### Contact
+## Contact
 
 If you have any questions about the Terms of Service, please contact us at <info@guaana.com>.
 
