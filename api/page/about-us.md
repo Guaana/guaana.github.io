@@ -2,7 +2,7 @@
 
 **Open Collaboration format built for scientists.**
 
->Open Collaboration: self-organizing community of individuals coordinated towards a shared outcome, which they make publicly available to contributors and noncontributors alike
+>**Open Collaboration:** self-organizing community of individuals coordinated towards a shared outcome, which they make publicly available to contributors and noncontributors alike
 
 Whether it’s your **reserach** or an **important cause**, these topics can be too complex to tackle on your own. Use our Challenge platform to **find collaborators** from around the world.
 
