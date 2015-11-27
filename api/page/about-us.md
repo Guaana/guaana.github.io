@@ -9,24 +9,24 @@ Whether it’s your **reserach** or an **important cause**, these topics can be 
 
 **OPEN IS BETTER**
 
-**Sharing**</br>
+**Sharing**
 Instead of getting stolen, publicly shared ideas transform the author into the source.
 
-**Diversity**</br>
+**Diversity**
 Acquire new thoughts from ideas shared and comments received. Best ideas are often the result of disagreements and contest.
 
-**Cross-disciplinary**</br>
+**Cross-disciplinary**
 Novel ideas often come from unexpected sources and outside of your field
 
 # Your actions make a difference
 
 Unlike traditional projects that require physical resources, Open Collaboration Challenges rely on the number of people contributing to a common effort. **Share knowledge, offer expert advice and collectively seek solutions.**
-</br></br></br>
+</br>
 
 # Our Mission
 
 Changing the mindset of scientist and as a result, a new method of knowledge creation will emerge.
-</br></br></br>
+</br>
 
 # Partner With Us
 
