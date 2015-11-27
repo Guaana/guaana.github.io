@@ -5,7 +5,7 @@
 >**Open Collaboration Challenge** (OCC): self-organizing community of individuals coordinated towards a shared outcome, which they make publicly available to contributors and non-contributors alike
 
 Whether it’s your **reserach** or an **important cause**, these topics can be too complex to tackle on your own. Guaana Challenge **connects bright minds** around your call, forming a collective where ideas can be rapidly improved by many.
-</br></br></br>
+</br>
 
 **OPEN IS BETTER**
 
