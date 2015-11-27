@@ -9,7 +9,7 @@ Whether it’s your **research** or an **important cause**, these topics can be 
 Open Collaboration is the best source of divergent thinking, inter-disciplinary connections, stimulating debate. And this is where **truly innovative** and **creative ideas** come from.
 
 
-**Your actions make a difference**
+**Your actions make a difference**</br>
 Unlike traditional projects that require physical resources, Open Collaboration Challenges rely on the number of people contributing to a common effort. **Share knowledge, offer expert advice and collectively seek solutions.** Actively amplifying our collective intelligence makes us smarter and so better able to solve the toughest scientific problems.
 </br></br>
 
