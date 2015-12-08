@@ -20,8 +20,7 @@ Changing the mindset of scientist and as a result, a new method of knowledge cre
 
 # Intellectual Property
 
-Copyright of all materials published in Guaana Challenges is retained by the author(s). Authors grant Guaana a license to publish their Challenge and identify themself as the original publisher. All content is licensed under the [Creative Commons Attribution License (CC-BY).]
-(https://creativecommons.org/licenses/by/4.0/legalcode)
+Copyright of all materials published in Guaana Challenges is retained by the author(s). Authors grant Guaana a license to publish their Challenge and identify themself as the original publisher. All content is licensed under the [Creative Commons Attribution License (CC-BY).](https://creativecommons.org/licenses/by/4.0/legalcode)
 The CC BY license permits commercial and non-commercial re-use of an open access article, as long as the author is properly attributed. </br></br>
 
 # Partner With Us
