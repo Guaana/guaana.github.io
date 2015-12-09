@@ -13,6 +13,11 @@ Open Collaboration is the best source of divergent thinking, inter-disciplinary 
 Unlike traditional projects that require physical resources, Open Collaboration Challenges rely on the number of people contributing to a common effort. **Share knowledge, offer expert advice and collectively seek solutions.** Actively amplifying our collective intelligence makes us smarter and so better able to solve the toughest scientific problems.
 </br></br>
 
+# Connecting companies to cool ideas and the people behind it.
+
+When a company is watching a Challenge then it is because the topic under investigation is relevant to their field and they are on a look out for top talent. **Be active, have fun and quite possibly land your dream job.**
+</br></br>
+
 # Our Mission
 
 Changing the mindset of scientist and as a result, a new method of knowledge creation will emerge.
