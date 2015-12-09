@@ -18,15 +18,16 @@ Unlike traditional projects that require physical resources, Open Collaboration 
 When a company is watching a Challenge then it is because the topic under investigation is relevant to their field and they are on a look out for top talent. **Be active, have fun and quite possibly land your dream job.**
 </br></br>
 
-# Our Mission
-
-Changing the mindset of scientist and as a result, a new method of knowledge creation will emerge.
-</br></br>
 
 # Intellectual Property
 
 Copyright of all materials published in Guaana Challenges is retained by the author(s). Authors grant Guaana a license to publish their Challenge and identify themself as the original publisher. All content is licensed under the [Creative Commons Attribution License (CC-BY).](https://creativecommons.org/licenses/by/4.0/legalcode)
 The CC BY license permits commercial and non-commercial re-use of an open access article, as long as the author is properly attributed. </br></br>
+
+# Our Mission
+
+Changing the mindset of scientist and as a result, a new method of knowledge creation will emerge.
+</br></br>
 
 # Partner With Us
 
