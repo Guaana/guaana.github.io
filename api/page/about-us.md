@@ -3,7 +3,7 @@ Open Collaboration format built for scientists.
 
 >**Open Collaboration Challenge** (OCC): self-organizing community of individuals coordinated towards a shared outcome, which they make publicly available to contributors and non-contributors alike
 
-Whether it’s your **research** or an **important cause**, these topics can be too complex to tackle on your own. Broadcasting your endeavor openly through Guaana Challenge **attracts inspired minds** around your call, forming a collective where ideas can rapidly be improved through an intellectual conversation.
+Broadcasting your endeavor openly through Guaana Challenge **attracts inspired minds** around your call, forming a collective where ideas can rapidly be improved through an intellectual conversation.
 
 Open Collaboration is the best source of divergent thinking, inter-disciplinary connections, stimulating debate. And this is where **truly innovative** and **creative ideas** come from.
 
@@ -14,7 +14,7 @@ Unlike traditional projects that require physical resources, Open Collaboration 
 
 # Connecting companies to cool ideas and the people behind them
 
-When a company is watching a Challenge then it is because the topic under investigation is relevant to their field and they are on a look out for top talent. **Be active, have fun and quite possibly land your dream job.**
+When a company is watching a Challenge then it is because the topic under investigation is relevant to their field and they are on a look out for top talent to work with. **Be active, have fun and realise your next dream project at Guaana.**
 </br></br>
 
 
