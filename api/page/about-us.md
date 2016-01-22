@@ -1,5 +1,5 @@
 # Guaana Challenge
-Open Collaboration format built for scientists.
+Open Collaboration format built for co-creation.
 
 >**Open Collaboration Challenge** (OCC): self-organizing community of individuals coordinated towards a shared outcome, which they make publicly available to contributors and non-contributors alike
 
