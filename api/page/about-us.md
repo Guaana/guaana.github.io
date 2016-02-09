@@ -26,7 +26,7 @@ Companies and organisations are watching Challenges because the topic under inve
 
 Connect is a database of open-minded scientists and innovators ready for meaningful partnerships.
 
-We've made it really simple to find each other - whatever expertise you are looking for - its just there. Search by field or profession and connect for networking and real time conversations.
+We've made it really simple to find each other - whatever expertise you are looking for - it's just there. Search by field or profession and connect for networking and real time conversations.
 </br></br>
 
 
