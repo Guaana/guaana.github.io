@@ -19,7 +19,7 @@ Join the brightest minds in the world advancing challenging ideas.
 
 # Talent hunters
 
-When a company or an institution is watching a Challenge then it is because the topic under investigation is relevant to their field and they are on a look out for top talent to work with. **Be active, have fun, and get noticed!**
+Companies and organisations are watching Challenges because the topic under investigation is relevant to their field and they are on a look out for top talent to work with. **Be active, have fun, and get noticed!**
 </br></br>
 
 # Guaana Connect
