@@ -1,41 +1,45 @@
-# Connecting knowledge
-Guaana is a community of open-minded scientists, visionaries, engineers, entrepreneurs, and specialists working together to explore bold ideas and boost the creation of future research.
+The word Guaana is a derivative of *gnana* (https://en.wikipedia.org/wiki/Jnana), a Sanskrit term for knowledge. Just with some extra ring to it. And yes, we are content with it’s resemblance to guano (https://en.wikipedia.org/wiki/Guano), which just happens to be one of the best natural fertilizers in the world.
 
-**Our mission is to accelerate the development of innovative research and ideas.**
+**We are building Guaana to accelerate scientific collaboration. A hub to scale up creative conversation, to connect and build meaningful partnerships. A place that speeds up the problem-solving process, and expands the range of problems that can be solved by the human mind.**
 
-We are connecting the brightest minds in the world in a single network to collectively advance challenges they are passionate about. Actively amplifying our collective intelligence makes us smarter and so better able to solve even the toughest problems at hand.
-</br></br>
+We are a community of scientists, innovators, engineers, thinkers, and visionaries brought together by a passion to accelerate scientific and technological breakthroughs.
 
-# Guaana Project
-Guaana Project brings together inspired minds and diverse expertise, forming a collective where ideas can be rapidly improved through intelligent discussion.
+**Our community consists of members from:**
 
-Whether it is scientific research or an important cause, we encourage our community to build upon each others ideas and collaborate with experts around the world to find better solutions than they would alone.
+**Universities**
+Massachusetts Institute of Technology (M.I.T.)
+University of California, Los Angeles (UCLA)
+University of Oxford
+University of Liverpool
+Harvard University
+Berkeley, University of California
+Stanford University
+Chicago State University
+University of York
+University of Minnesota
+...and more
 
+
+**Organisations**
+CERN
+Google X
+ESA (European Space Agency)
+Technical Research Center of Finland
+Red Core Consulting
+...and more
+
+
+## Guaana Project
+
+Guaana Project is a tool used by scientists to grow a network around their preliminary research or technology. This network becomes a hub where ideas are discussed openly and rapidly improved by many minds. Based on this exchange of ideas and willingness to collaborate, new professional connections are naturally formed. And these new connections are not formed just between the scientists themselves, but also with companies.
 
 **Share knowledge, discuss bold ideas, and find collaborators to explore ways of turning concepts into reality.**
-
-Join the brightest minds in the world advancing challenging ideas.
 </br></br>
 
-# Talent hunters
 
-Companies and organisations are watching Projects because the topic under investigation is relevant to their field and they are on a look out for top talent to work with. **Be active, have fun, and get noticed!**
-</br></br>
-
-# Guaana Connect
+## Guaana Connect
 
 Connect is a database of open-minded scientists and innovators ready for meaningful partnerships.
 
 We've made it really simple to find each other - whatever expertise you are looking for - it's just there. Search by field or profession and connect for networking and real time conversations.
-</br></br>
-
-
-# Intellectual Property
-
-Copyright of all materials published in Guaana Projects is retained by the author(s). Authors grant Guaana a license to publish their Project and identify themself as the original publisher. All content is licensed under the [Creative Commons Attribution License (CC-BY).](https://creativecommons.org/licenses/by/4.0/legalcode)
-The CC BY license permits commercial and non-commercial re-use of an open access article, as long as the author is properly attributed. </br></br>
-
-# Contact
-
-We would love to hear what’s on your mind. Please contact <info@guaana.com> and we will get back to you shortly.
 </br></br>
