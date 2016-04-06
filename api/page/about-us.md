@@ -7,27 +7,27 @@ We are a community of scientists, innovators, engineers, thinkers, and visionari
 **Our community consists of members from:**
 
 **Universities**
-Massachusetts Institute of Technology (M.I.T.)
-University of California, Los Angeles (UCLA)
-University of Oxford
-University of Liverpool
-Harvard University
-Berkeley, University of California
-Stanford University
-Chicago State University
-University of York
-University of Minnesota
+Massachusetts Institute of Technology (M.I.T.) </br>
+University of California, Los Angeles (UCLA)</br>
+University of Oxford</br>
+University of Liverpool</br>
+Harvard University</br>
+Berkeley, University of California</br>
+Stanford University</br>
+Chicago State University</br>
+University of York</br>
+University of Minnesota</br>
 ...and more
-
+</br></br>
 
 **Organisations**
-CERN
-Google X
-ESA (European Space Agency)
-Technical Research Center of Finland
-Red Core Consulting
+CERN</br>
+Google X</br>
+ESA (European Space Agency)</br>
+Technical Research Center of Finland</br>
+Red Core Consulting</br>
 ...and more
-
+</br></br>
 
 ## Guaana Project
 
