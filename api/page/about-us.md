@@ -1,4 +1,4 @@
-The word Guaana is a derivative of *gnana* (https://en.wikipedia.org/wiki/Jnana), a Sanskrit term for knowledge. Just with some extra ring to it. And yes, we are content with it’s resemblance to guano (https://en.wikipedia.org/wiki/Guano), which just happens to be one of the best natural fertilizers in the world.
+The name Guaana is a derivative of *gnana* (https://en.wikipedia.org/wiki/Jnana), a Sanskrit term for knowledge. Just with some extra ring to it. And yes, we are content with it’s resemblance to guano (https://en.wikipedia.org/wiki/Guano), which just happens to be one of the best natural fertilizers in the world.
 
 **We are building Guaana to accelerate scientific collaboration. A hub to scale up creative conversation, to connect and build meaningful partnerships. A place that speeds up the problem-solving process, and expands the range of problems that can be solved by the human mind.**
 
