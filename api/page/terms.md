@@ -64,55 +64,31 @@ We cannot control all Content posted by users and/or third parties on the Servic
 
 You may not post any unlawful, offensive, threatening, libellous, defamatory, obscene or otherwise objectionable Content, or Content that violates any of these the Terms ("Offensive Content"). Examples of such Offensive Content include, but are not limited to, the following:
 
-abuse, harassment, threats, flaming or intimidation of any person or organization
-
-engaging in or contributing to any illegal activity or activity that violates others’ rights
-
-use of derogatory, discriminatory or excessively graphic language
-
-providing information that is false, misleading or inaccurate
-
-hacking or modifying the Services to falsely imply an association with Guaana
-
-engaging in or contributing to any activity that maliciously degrades the Services
-
-implying or pretending to be affiliated with a company or organization with which you are not affiliated, or misrepresenting the extent of your affiliation or role with an affiliated company or organization
-
-disclosing personal login information, including, but not limited to passwords without the express permission of the individual or organization who provided it to you
-
-transmitting worms, viruses or harmful software
-
-sending spam, unsolicited mail, junk mail or chain letters
-
-disclosing personal or proprietary information of another user, person or organization
-
-altering the Service’s user interface in a way that removes access to any part of the Service’s functionality and/or inhibits access to or the display of advertisements
-
-collecting the content or information belonging to our users or Guaana, or otherwise accessing the Services, using automated means (such as harvesting bots, robots, spiders or scrapers) without our permission
-
-soliciting log in information or accessing the account of another user of the Services
-
-promoting, condoning, endorsing, distributing, publishing, or posting any material that solicits money, funds or people on websites or other properties that belong to Guaana
-
-aiding in the use of the Services for purposes of advertisement or solicitation for commercial goods or services on websites or other properties that belong to Guaana
-
-harassing, annoying, intimidating or threatening users of the Services or employees or agents of Guaana
-
-removing or altering, visually or not, any copyrights, trademarks, or proprietary marks and rights owned by us
-
-forging, manipulating or plagiarizing messages, communications, headers or identifiers to imply an association with us or the Services
-
-posting, publishing, displaying or transmitting in any way proprietary information, copyrighted material and trademarks not belonging to you, without the prior written consent of the owner of such rights
-
-posting content that uses, promotes or links to an illegal or unauthorized copy of another person’s copyrighted work or intellectual property
-
-posting content that advocates, endorses, condones or promotes harassment of others, or content that actively or indirectly harasses others
-
-posting content that is offensive and harmful, including but not limited to, content that advocates, endorses, condones or promotes racism, bigotry, hatred or physical harm of any kind against any individual or any group of individuals
-
-posting content that provides materials or access to materials that exploits people under the age of 18 in an abusive, violent or sexual manner
-
-posting content that solicits personal information or any information from anyone under the age of 18
+* abuse, harassment, threats, flaming or intimidation of any person or organization
+* engaging in or contributing to any illegal activity or activity that violates others’ rights
+* use of derogatory, discriminatory or excessively graphic language
+* providing information that is false, misleading or inaccurate
+* hacking or modifying the Services to falsely imply an association with Guaana
+* engaging in or contributing to any activity that maliciously degrades the Services
+* implying or pretending to be affiliated with a company or organization with which you are not affiliated, or misrepresenting the extent of your affiliation or role with an affiliated company or organization
+* disclosing personal login information, including, but not limited to passwords without the express permission of the individual or organization who provided it to you
+* transmitting worms, viruses or harmful software
+* sending spam, unsolicited mail, junk mail or chain letters
+* disclosing personal or proprietary information of another user, person or organization
+* altering the Service’s user interface in a way that removes access to any part of the Service’s functionality and/or inhibits access to or the display of advertisements
+* collecting the content or information belonging to our users or Guaana, or otherwise accessing the Services, using automated means (such as harvesting bots, robots, spiders or scrapers) without our permission
+* soliciting log in information or accessing the account of another user of the Services
+* promoting, condoning, endorsing, distributing, publishing, or posting any material that solicits money, funds or people on websites or other properties that belong to Guaana
+* aiding in the use of the Services for purposes of advertisement or solicitation for commercial goods or services on websites or other properties that belong to Guaana
+* harassing, annoying, intimidating or threatening users of the Services or employees or agents of Guaana
+* removing or altering, visually or not, any copyrights, trademarks, or proprietary marks and rights owned by us
+* forging, manipulating or plagiarizing messages, communications, headers or identifiers to imply an association with us or the Services
+* posting, publishing, displaying or transmitting in any way proprietary information, copyrighted material and trademarks not belonging to you, without the prior written consent of the owner of such rights
+* posting content that uses, promotes or links to an illegal or unauthorized copy of another person’s copyrighted work or intellectual property
+* posting content that advocates, endorses, condones or promotes harassment of others, or content that actively or indirectly harasses others
+* posting content that is offensive and harmful, including but not limited to, content that advocates, endorses, condones or promotes racism, bigotry, hatred or physical harm of any kind against any individual or any group of individuals
+* posting content that provides materials or access to materials that exploits people under the age of 18 in an abusive, violent or sexual manner
+* posting content that solicits personal information or any information from anyone under the age of 18
 
 ## Guaana’s Intellectual Property Rights
 
