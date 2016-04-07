@@ -60,4 +60,4 @@ Would you like to be an example customer, write a testimonial, be highlighted in
 
 If you have any questions about Private Policy, please contact us at <info@guaana.com>.
 
-Copyright © 2015 Guaana
+Copyright © 2016 Guaana
