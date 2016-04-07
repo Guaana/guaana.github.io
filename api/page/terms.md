@@ -184,4 +184,4 @@ Headings are for convenience only and have no legal or contractual effect.
 
 ## Contact
 
-If you have any questions about the Terms, please contact us at info@guaana.com.
+If you have any questions about the Terms, please contact us at <info@guaana.com>.
