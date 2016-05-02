@@ -10,7 +10,7 @@ In case you have any questions regarding sharing your ideas on Guaana.com, pleas
 ## Terms of Service
 
  
-Effective Date: May 1, 2015
+Effective Date: May 2, 2016
 
 The following terms and conditions, and all other operating rules and policies made available on or through the Services (as defined below), as well as any future modifications thereto (the "Terms") are an agreement (the “Agreement”)  between you or your company ("you" or "your") and Guaana OÜ, a private limited company incorporated in Estonia ("Guaana," "we," "us," or "our") governing your use, and Guaana’s provision, of the Services. By using Guaana’s software applications, application programming interfaces, communication services, networks, and websites, including, but not limited to guaana.com (collectively, the "Services"), you acknowledge that you have read, understood, accept and agree to be bound by the most recent version of these Terms.
 
@@ -146,9 +146,21 @@ If you are interested in becoming a Guaana partner, reseller, or affiliate, we a
 
 You are solely responsible for satisfying all income tax, payroll tax, payroll withholding, sales and use tax, governmental reporting and other legal requirements under applicable law, including without limitation those applicable to the purchase and sale of services provided by creatives, from and by independent contractors.
 
+## Service Guarantee
+
+We will respond to your support inquiries within 24 (twenty-four) hours and we will ensure the Services have no unreasonable unexpected downtime. 
+
 ## Modifications to the Services
 
 Guaana reserves the right at any time to modify or discontinue, temporarily or permanently, the Services (or any part thereof) with or without notice. Guaana shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Services.
+
+## Termination
+
+You may terminate the Agreement by deleting your account at any time. Guaana may terminate or deactivate your account without notice in the event that you breach any of these Terms.
+
+## Refunds
+
+Guaana is not obligated to provide refunds or credits for partial months or years of the Services, upgrades or downgrades, or unused time during your subscription. 
 
 ## Governing Law
 
