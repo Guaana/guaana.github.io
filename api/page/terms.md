@@ -68,12 +68,10 @@ You may not post any unlawful, offensive, threatening, libellous, defamatory, ob
 * altering the Service’s user interface in a way that removes access to any part of the Service’s functionality and/or inhibits access to or the display of advertisements
 * collecting the content or information belonging to our users or Guaana, or otherwise accessing the Services, using automated means (such as harvesting bots, robots, spiders or scrapers) without our permission
 * soliciting log in information or accessing the account of another user of the Services
-* promoting, condoning, endorsing, distributing, publishing, or posting any material that solicits money, funds
-or people on websites or other properties that belong to Guaana
+* promoting, condoning, endorsing, distributing, publishing, or posting any material that solicits money, funds or people on websites or other properties that belong to Guaana
 * aiding in the use of the Services for purposes of advertisement or solicitation for commercial goods or services on websites or other properties that belong to Guaana
 * harassing, annoying, intimidating or threatening users of the Services or employees or agents of Guaana
-* removing or altering, visually or not, any copyrights, trademarks, or proprietary marks and rights owned by
-us
+* removing or altering, visually or not, any copyrights, trademarks, or proprietary marks and rights owned by us
 * forging, manipulating or plagiarizing messages, communications, headers or identifiers to imply an association with us or the Services
 * posting, publishing, displaying or transmitting in any way proprietary information, copyrighted material and other intellectual property (e.g.trademarks) not belonging to you, without the prior written consent of the owner of such rights
 * posting content that uses, promotes or links to an illegal or unauthorized copy of another person’s copyrighted work or other intellectual property
