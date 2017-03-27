@@ -74,13 +74,13 @@ or people on websites or other properties that belong to Guaana
 * harassing, annoying, intimidating or threatening users of the Services or employees or agents of Guaana
 * removing or altering, visually or not, any copyrights, trademarks, or proprietary marks and rights owned by
 us
-• forging, manipulating or plagiarizing messages, communications, headers or identifiers to imply an association with us or the Services
-• posting, publishing, displaying or transmitting in any way proprietary information, copyrighted material and other intellectual property (e.g.trademarks) not belonging to you, without the prior written consent of the owner of such rights
-• posting content that uses, promotes or links to an illegal or unauthorized copy of another person’s copyrighted work or other intellectual property
-• posting content that advocates, endorses, condones or promotes harassment of others, or content that actively or indirectly harasses others
-• posting content that is offensive and harmful, including but not limited to, content that advocates, endorses, condones or promotes racism, bigotry, hatred or physical harm of any kind against any individual or any group of individuals
-• posting content that provides materials or access to materials that exploits people under the age of 18 in an abusive, violent or sexual manner
-• posting content that solicits personal information or any information from anyone under the age of 18
+* forging, manipulating or plagiarizing messages, communications, headers or identifiers to imply an association with us or the Services
+* posting, publishing, displaying or transmitting in any way proprietary information, copyrighted material and other intellectual property (e.g.trademarks) not belonging to you, without the prior written consent of the owner of such rights
+* posting content that uses, promotes or links to an illegal or unauthorized copy of another person’s copyrighted work or other intellectual property
+* posting content that advocates, endorses, condones or promotes harassment of others, or content that actively or indirectly harasses others
+* posting content that is offensive and harmful, including but not limited to, content that advocates, endorses, condones or promotes racism, bigotry, hatred or physical harm of any kind against any individual or any group of individuals
+* posting content that provides materials or access to materials that exploits people under the age of 18 in an abusive, violent or sexual manner
+* posting content that solicits personal information or any information from anyone under the age of 18
 
 ## 5. Guaana’s Intellectual Property Rights
 
