@@ -1,4 +1,5 @@
 We take your privacy seriously. This Privacy Policy (“Policy”) covers Guaana’s treatment of personal data collected through the use of guaana.com, the Services, or other reasonable means that may happen through normal interaction with us. The Policy does not apply to entities that Guaana does not own or control, or persons that Guaana does not employ or manage. 
+
 Unless defined differently herein, all capitalised terms should be defined as in our Terms of Service. Personal data is understood as any information that identifies an individual (you). 
 
 By using guaana.com, the Services or interacting with us, you consent to the data processing practices described herein.
