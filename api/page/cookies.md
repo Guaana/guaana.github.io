@@ -26,9 +26,9 @@ The length of time a cookie will stay on your device depends on whether it is a 
 ## Changing your cookies’ settings
 
 You can change your cookies’ setting and delete cookies through the settings of your web browser (Internet Explorer, Firefox, Chrome etc): 
-Internet Explorer: http://support.microsoft.com/kb/278835 
-Crome: https://support.google.com/chrome/answer/95647?hl=en 
-Firefox: http://support.mozilla.org/en-US/kb/Clear%20Recent%20History 
-Opera: http://www.opera.com/browser/tutorials/security/privacy 
-Safari: http://support.apple.com/kb/PH5042 
+* Internet Explorer: http://support.microsoft.com/kb/278835 
+* Crome: https://support.google.com/chrome/answer/95647?hl=en 
+* Firefox: http://support.mozilla.org/en-US/kb/Clear%20Recent%20History 
+* Opera: http://www.opera.com/browser/tutorials/security/privacy 
+* Safari: http://support.apple.com/kb/PH5042 
 
