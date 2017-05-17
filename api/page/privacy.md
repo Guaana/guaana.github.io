@@ -1,63 +1,70 @@
-We take your privacy seriously. The following policy covers Guaana’s treatment of information collected through the use of Services, third-party partners ("Partners"), or other reasonable means that may happen through normal interaction with us. The policy does not apply to entities that Guaana does not own or control, or persons that Guaana does not employ or manage. Nevertheless, Guaana will take all reasonable means to maintain your privacy as described below when working with third parties.
+We take your privacy seriously. This Privacy Policy (“Policy”) covers Guaana’s treatment of personal data collected through the use of guaana.com, the Services, or other reasonable means that may happen through normal interaction with us. The Policy does not apply to entities that Guaana does not own or control, or persons that Guaana does not employ or manage. 
+Unless defined differently herein, all capitalised terms should be defined as in our Terms of Service. Personal data is understood as any information that identifies an individual (you). 
 
-## Collection
+** By using guaana.com, the Services or interacting with us, you consent to the data processing practices described herein. 
 
-Subject to these Terms, you consent, through your use of the Services or by communication with us, to the collection, use, disclosure, storage, processing, and transfer to Estonia and/or other countries of the following information (collectively your "Private Information") by us or by third-party vendors contracted by us:
+## Collecting Your Personal Data 
 
-* Your account Registration Data;
-* Your credit card and/or other billing information;
-* Personal information such as your name, email address, and phone number;
-* Business information like your company name, company size, and business type;
-* Your customers’ information that you provide us or through your customers’ interaction with the Services;
-* Any other information you provide us, such as your coworker’s email address;
-* Account information from Add-ons and other third-party services you use in conjunction with our Services;
-* Data about your use of the Services, such as but not limited to interactions with the user interface to the Services, computers you connect to the Services with, the frequency and size of data transfers, and information you use to describe yourself; and
-* Data required for operation of the Services such as but not limited to information you submit to, publish with, or transfer through to the Services.
+We may collect the following personal data in the following ways:
+You may provide us your personal data upon registration, contacting us, or otherwise using the Services. Note that we only require the provision of some personal data upon registration or contacting us (e.g. your name and e-mail address). The provision of other personal data (e.g. picture, other contact information, information about your education, professional qualifications etc) is voluntary.
+We collect certain data by automated means, such as cookies and web beacons, when you visit guaana.com (e.g. IP address, browser type, operating system, referring URLs, information on actions taken on a website, and dates and times of website visits). Our Cookie Policy is available [here](https://www.guaana.com/about/cookies) 
 
-## Use 
+## Using Your Personal Data
+We may use your personal data for the following purposes:
+*	to perform under the Agreement, i.e. to provide the Services,
+*	to contact you regarding the Services,
+*	to provide assistance regarding the Services,
+*	to collect feedback regarding the Services,
+*	to personalise the Services, monitor and analyse the effectiveness of the Services, monitor aggregate site usage metrics such as total number of visitors and pages viewed etc,
+*	to exercise any rights and obligations arising from the law.
 
-We use your Private Information only to provide the Services to you, to send you notification of updates to the Services, and to send you marketing communications such as email (unless you choose to stop our email newsletter or marketing emails by following the unsubscribe instructions included in these emails). If you provide us personal information about others, or if others give us your information, we will only use that information for the use we described when the information was shared with us. 
+We use your personal data for any other purposes only with your prior consent.
 
-## Cookies
+## Service Providers (Data Processors) and International Data Transfers
 
-You consent to the use of cookies, web beacons, and log file information to: (i) operate the Services, (ii) store information so that you will not have to re-enter it during your visit or the next time you use the Services; (iii) provide custom personalized content and information; (iv) monitor the effectiveness of our marketing campaigns; (v) monitor aggregate metrics such as total number of visitors and pages viewed; and (vi) track your entries, submissions, and status in promotions, sweepstakes, and contests. If you are logged in to your account, we may associate the Private Information with your account.
+We may use service providers (data processors) in processing your personal data. In doing so, we remain responsible for your personal data and take all necessary measures to protect your personal data.
+Such service providers include Amazon and Compose who provide us data hosting services. They may host personal data in the US. You hereby consent to the transfer of your personal data to our service providers in the US for hosting purposes. Note that Amazon also holds a valid Privacy Shield certificate and any such transfer of personal data to the US is in compliance with EU data protection requirements.
 
-## Third-party services 
+## Disclosing Your Personal Data
 
-We may share or collect your Private Information with our third party service providers, including companies that assist with payment processing, business analytics, data processing, account management, and other services. We require these companies to not use your Private Information themselves nor share it with another party not under a similar contract to provide service to us, but only use your Private Information for the specific services we have requested for us or on your behalf. We will ensure that any such third party will adhere to the obligations no less protective of your Private Information than this Privacy Policy. 
+We only disclose your personal data to third parties and the public without your prior consent if and as provided in this Policy, our Terms of Service, or the law. We may disclose your personal data to the following third parties:
+*	an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets,
+*	supervisory authorities,
+*	our lawyers, auditors, accountants. 
 
-## Do not track signals 
+Note that your profile at guaana.com is visible to the public (“Public Profile”). Your Public Profile includes your name and any other information you have chosen to provide; it does not include your contact information.  
 
-As there currently is no fixed standard for do not track signals, we currently do not respond to do not track signals from your web browser. 
+## Becoming an Example Customer
 
-## Metrics 
+Would you like to be an example customer, write a testimonial, be highlighted in our newsletter or other communications? Let us know. Otherwise, we will not use you as an example or reference customer in our marketing, communications, or promotional material. 
 
-We also use collected data to compute aggregate metrics such as pages viewed and total number of visitors in order to statistically determine trends and patterns about usage and demographics for the purpose of improving the Services. When aggregating your Private Information, we will take reasonable measures to anonymize your Private Information. 
+## Data Retention
 
-## Personnel 
+We only store your personal data as long as necessary for the purposes of the personal data collected and as long as required by law (e.g. for tax purposes). In general, we store your personal data as follows: 
+*	personal data needed for tax and bookkeeping purposes - 7 years from the end of the financial year when the relevant data was provided to us,
+*	personal data related to the Agreement – 10 years (in accordance with the maximum period for raising claims from transactions),
+*	cookie data – according to the Cookie Policy. 
 
-We will only disclose Private Information to our staff as they need to know and we will ensure such personnel protect Private Information as required in this Privacy Policy. We will not disclose your Private Information to third parties without your consent unless they are bound to a confidentiality agreement that complies with this Privacy Policy. We do not sell your Private Information to third parties.
+## Security
 
-## Accountability 
+We implement appropriate organisational, technical and physical safeguards to protect your personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access and against all unlawful forms of processing.
 
-We will take all appropriate legal, organizational, and technical measures to protect the Personal Information, keeping in mind the nature of such data. Guaana shall hold those of its employees with access to personal data accountable for violations of this agreement imposing sanctions, which include, where appropriate, the possibility of termination of contracts and employment. 
+## Your Rights
 
-## Further disclosure 
+You have all the rights of a data subject as provided in the applicable law. This includes the right to obtain information and personal data concerning you and to demand the correction of inaccurate personal data. If processing of personal data is not permitted on the basis of law, you have the right to demand termination of the processing of the personal data, termination of the disclosure or enabling access to the personal data and/or deletion or closure of the collected personal data. You have the right at any time to refuse receiving any further direct marketing messages. You also have the right to turn to the Data Protection Inspectorate or the court to safeguard your rights. 
+If you have consented to receiving direct marketing messages from us, you may, at any time, refuse from further receiving such messages by clicking on the ‘unsubcribe link’ at the end of each such message or by contacting us at: info@guaana.com. 
 
-We may share with third parties non-personal information, public information, and anonymized aggregated data. We may also disclose your Private Information as required by law such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; if we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice within the application of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; to any other third party with your prior consent to do so.
+## Changes to this Policy
 
-## Backups
+Should we decide to make changes to this Privacy Policy we will notify you thereof as provided in the Terms of Service. Such changes may be a result of changes in the applicable law or in our data processing practices. 
 
-We may also retain your Private Information in backups for a reasonable period of time, ever after the termination of your account or your relationship with us governed by these Terms. We will not share Private Information in backups with third parties unless compelled to by law.
+## Responsible Person
 
-## Requested deletion
+Guaana.com is owned and operated by and the Services are offered by Guaana OÜ, a private limited company incorporated in Estonia, registry code 12716264, address Idapõllu tee 6-29, 74001 Viimsi, Estonia, who is responsible for the processing of your personal data.	
 
-Guaana shall, upon request and promptly using commercially reasonable efforts, correct, delete, and/or block Private Information from further processing and/or use.
+## Personal Data in the Content
 
-## Becoming an example customer
+Note that if your Content includes any personal data, you are solely responsible for such personal data and considered data controller thereof. We, on the other hand, act in the capacity of data processor as regards such personal data. 
 
-Would you like to be an example customer, write a testimonial, be highlighted in our newsletter or other communications? Let us know. Otherwise, we will not use you as an example or reference customer in our marketing, communications, or promotional material.
-
-If you have any questions about Private Policy, please contact us at <info@guaana.com>.
-
-Copyright © 2016 Guaana
+## Contact
+If you have any questions, comments, complaints or requests related to this Policy or the processing of your personal data, you can contact us via: info@guaana.com. 
