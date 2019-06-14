@@ -1,45 +1,30 @@
-The name Guaana is a derivative of *gnana* (https://en.wikipedia.org/wiki/Jnana), a Sanskrit term for knowledge. Just with some extra ring to it. And yes, we are content with it’s resemblance to guano (https://en.wikipedia.org/wiki/Guano), which just happens to be one of the best natural fertilizers in the world.
 
-**We are building Guaana to accelerate scientific collaboration. A hub to scale up creative conversation, to connect and build meaningful partnerships. A place that speeds up the problem-solving process, and expands the range of problems that can be solved by the human mind.**
+#Guaana
 
-We are a community of scientists, innovators, engineers, thinkers, and visionaries brought together by a passion to accelerate scientific and technological breakthroughs.
+Founded in 2014, from Estonia; [the worlds most digital country](https://e-estonia.com), Guaana is a community-based platform to run online innovation & research challenges.
 
-**Our community consists of members from:**
-
-**Universities**
-Massachusetts Institute of Technology (M.I.T.) </br>
-University of California, Los Angeles (UCLA)</br>
-University of Oxford</br>
-University of Liverpool</br>
-Harvard University</br>
-Berkeley, University of California</br>
-Stanford University</br>
-Chicago State University</br>
-University of York</br>
-University of Minnesota</br>
-...and more
-</br></br>
-
-**Organisations**
-CERN</br>
-Google X</br>
-ESA (European Space Agency)</br>
-Technical Research Center of Finland</br>
-Red Core Consulting</br>
-...and more
-</br></br>
-
-## Guaana Project
-
-Guaana Project is a tool used by scientists to grow a network around their preliminary research or technology. This network becomes a hub where ideas are discussed openly and rapidly improved by many minds. Based on this exchange of ideas and willingness to collaborate, new professional connections are naturally formed. And these new connections are not formed just between the scientists themselves, but also with companies.
-
-**Share knowledge, discuss bold ideas, and find collaborators to explore ways of turning concepts into reality.**
-</br></br>
+We are a team driven by design thinking, constantly looking for ways to simplify complex processes. As designers and developers, we come from a background of open and web-based collaboration practices. Our purpose is to bring the same benefits to the world of research and innovation.
 
 
-## Guaana Connect
+##What we do
 
-Connect is a database of open-minded scientists and innovators ready for meaningful partnerships.
+Guaana builds creative solutions for research funding and innovation. Instead of re-inventing the wheel, we adapt approaches from non-research focused applications used to solve challenges similar to those faced in research funding, and implement them into the evaluation of scientific work in ways that enhance collaboration and transparency in the process.
 
-We've made it really simple to find each other - whatever expertise you are looking for - it's just there. Search by field or profession and connect for networking and real time conversations.
-</br></br>
+Guaana works with governments and organizations from all over the world, helping them to:
+
+* Distribute research grants - 6x times faster, and 75% more efficient
+* Run online hackathons - remove manual activities, and engage globally 
+* Gather ideas through an online workshop - remove travel time & expense, infinite scale, a more flexible use of time, global reach, low admin requirement 
+
+Everything in one app, no more juggling files and data between multiple different systems.
+
+To learn more, please get in touch with us at [info@guaana.com](mailto:info@guaana.com).
+
+
+
+##Journey
+
+For the past five years, we have been working closely with researchers & innovators from around the world. We have interviewed, listened and challenged many, in order to map and understand the root causes of key challenges faced by researchers and innovators in their work.
+First iteration of Guaana was launched in April 2015 - a platform that has brought together a community of over 4000 members from around the world to spark creative conversations around preliminary research ideas, ideations, social change and much more. 
+
+Our vision is to be the biggest innovation & research community in the world. 
