@@ -1,7 +1,7 @@
 
 #Guaana
 
-Founded in 2014, from Estonia; [the worlds most digital country](https://e-estonia.com), Guaana is a community-based platform to run online innovation & research challenges.
+Founded in 2014, from Estonia; [the worlds most digital country](https://e-estonia.com){:target="_blank"}, Guaana is a community-based platform to run online innovation & research challenges.
 
 We are a team driven by design thinking, constantly looking for ways to simplify complex processes. As designers and developers, we come from a background of open and web-based collaboration practices. Our purpose is to bring the same benefits to the world of research and innovation.
 
